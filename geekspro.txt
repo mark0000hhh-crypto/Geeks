@@ -1,0 +1,4 @@
+Name: Mark 
+Surname: Mamytov
+Work experience: 4 years
+subject of work: python
